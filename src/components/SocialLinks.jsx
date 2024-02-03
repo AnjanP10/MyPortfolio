@@ -13,7 +13,7 @@ const SocialLinks = () => {
                 LinkedIn <FaLinkedin size={30} />
                 </>
             ),
-            href: "https://linkedin.com",
+            href: "https://www.linkedin.com/in/anjan-phuyal-21ab8a249/",
             style: "rounded-tr-md",
         },
         {
@@ -23,7 +23,7 @@ const SocialLinks = () => {
                 GitHub <FaGithub size={30} />
                 </>
             ),
-            href: "https://github.com",
+            href: "https://github.com/AnjanP10",
         },
         {
             id: 3,
